@@ -23,7 +23,7 @@ Questions, ideas, or want to join?
 🌐 Linktree: [linktr.ee/sacnas_ucf](https://linktr.ee/sacnas_ucf)  
 
 ---
-
+Designed by: Nishtha Tikalal
 <div align="center">
 
 ![SACNAS @ UCF Logo](logo.jpg)
