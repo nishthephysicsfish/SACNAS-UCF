@@ -4,7 +4,7 @@ Welcome to the official GitHub Pages site for the **Society for Advancement of C
 
 ---
 
-## 🚀 About SACNAS @ UCF
+## 🚀 Misson
 
 SACNAS @ UCF brings together students, faculty, and professionals passionate about achieving true diversity in STEM.  
 We support underrepresented communities through:
