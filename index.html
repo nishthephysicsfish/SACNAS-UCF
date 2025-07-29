@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>SACNAS @ UCF</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
     /* SACNAS @ UCF chapter colorway */
     body {
@@ -14,11 +14,17 @@
     }
     nav {
       background: #01a4b5; /* Teal */
-      padding: 18px 40px;
+      padding: 12px 30px;
       display: flex;
       justify-content: flex-start;
       align-items: center;
       box-shadow: 0 2px 6px rgba(0,30,60,0.06);
+    }
+    .nav-logo {
+      height: 35px;          /* smaller logo height */
+      width: auto;
+      margin-right: 20px;
+      display: block;
     }
     nav a {
       color: #ffffff;
@@ -58,6 +64,7 @@
       font-size: 1.25rem;
       color: #231f20;
       font-weight: 500;
+      line-height: 1.5;
     }
     ul.benefits {
       list-style: none;
@@ -73,25 +80,26 @@
       box-shadow: 0 2px 8px #e9ecf716;
     }
     @media (max-width: 600px) {
-      .wrapper { padding: 16px 4px 14px 4px; }
+      .wrapper { padding: 16px 10px 14px 10px; }
       h1 { font-size: 1.6rem; }
-      nav { flex-direction: column; align-items: flex-start; padding: 14px 10px; }
-      nav a { margin-bottom: 7px; font-size: 0.98rem; }
+      nav { flex-direction: column; align-items: flex-start; padding: 14px 20px; }
+      .nav-logo { margin-bottom: 10px; }
+      nav a { margin: 0 0 7px 0; font-size: 0.98rem; }
     }
   </style>
 </head>
 <body>
-   <nav>
-  <img src="logo.jpg" alt="SACNAS @ UCF Logo" class="nav-logo" />
-  <a href="index.html" class="active">Home</a>
-  <a href="about.html">About</a>
-  <!-- other nav links -->
-</nav>
+  <nav>
+    <img src="logo.jpg" alt="SACNAS @ UCF Logo" class="nav-logo" />
+    <a href="index.html" class="active">Home</a>
+    <a href="about.html">About</a>
+    <!-- other nav links can be added here -->
+  </nav>
   <div class="wrapper">
     <h1>SACNAS @ UCF</h1>
     <div class="subtitle">
-      Society for Advancement of Chicanos/Hispanics & Native Americans in Science<br>
-      <em>Join us in achieving true diversity in STEM!</em><br><br>
+      Society for Advancement of Chicanos/Hispanics & Native Americans in Science<br />
+      <em>Join us in achieving true diversity in STEM!</em><br /><br />
       SACNAS @ UCF unites students, faculty, and professionals dedicated to supporting and advancing underrepresented communities in science. Through mentorship, professional development, outreach, and community building, we work to foster inclusion and equitable access to STEM opportunities for all.
     </div>
     <ul class="benefits">
