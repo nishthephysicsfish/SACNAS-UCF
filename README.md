@@ -21,3 +21,8 @@ We support underrepresented communities through:
 Questions, ideas, or want to join?  
 📸 Instagram: [@sacnasucf](https://www.instagram.com/sacnasucf/)  
 🌐 Linktree: [linktr.ee/sacnas_ucf](https://linktr.ee/sacnas_ucf)
+
+<div class="logo-container">
+  <img src="logo.jpg" alt="SACNAS @ UCF Logo" />
+</div>
+
