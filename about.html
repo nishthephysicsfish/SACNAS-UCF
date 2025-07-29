@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>About - SACNAS @ UCF</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    /* SACNAS @ UCF chapter colorway (same as homepage) */
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background: #7bd3f7; /* Light blue background */
+      color: #231f20; /* Black text */
+    }
+    nav {
+      background: #01a4b5; /* Teal */
+      padding: 18px 40px;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      box-shadow: 0 2px 6px rgba(0,30,60,0.06);
+    }
+    nav a {
+      color: #ffffff;
+      background: #01a4b5;
+      text-decoration: none;
+      margin-right: 20px;
+      padding: 10px 25px;
+      border-radius: 25px;
+      font-weight: 600;
+      transition: background 0.2s, color 0.2s;
+      font-size: 1rem;
+      letter-spacing: 1px;
+    }
+    nav a:hover {
+      background: #7bd3f7; /* Light blue hover */
+      color: #231f20;      /* Black */
+    }
+    nav a.active {
+      background: #7bd3f7;  /* Light blue */
+      color: #231f20;       /* Black */
+    }
+    .wrapper {
+      max-width: 700px;
+      margin: 40px auto 60px auto;
+      background: #ffffffee;
+      padding: 36px 32px 28px 32px;
+      border-radius: 18px;
+      box-shadow: 0 8px 36px rgba(90,130,190,0.11);
+    }
+    h1, h2 {
+      color: #01a4b5; /* Teal headers */
+      letter-spacing: 2px;
+      margin-bottom: 20px;
+    }
+    p, ul {
+      font-size: 1.15rem;
+      line-height: 1.6;
+      color: #231f20;
+      margin-bottom: 32px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    ul li {
+      margin-bottom: 12px;
+    }
+    a {
+      color: #01a4b5;
+      text-decoration: underline;
+    }
+    a:hover {
+      color: #007d8f;
+    }
+    @media (max-width: 600px) {
+      .wrapper {
+        padding: 20px 16px 16px 16px;
+        margin: 24px auto 40px auto;
+      }
+      h1, h2 {
+        font-size: 1.6rem;
+      }
+      nav {
+        padding: 14px 10px;
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      nav a {
+        margin-bottom: 7px;
+        font-size: 0.98rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html" class="active">About</a>
+    <!-- Add future tabs/pages here -->
+  </nav>
+
+  <div class="wrapper">
+    <h1>About SACNAS</h1>
+    <p>
+      The Society for Advancement of Chicanos/Hispanics & Native Americans in Science (SACNAS) is a national organization dedicated to fostering the success of Hispanic/Chicano and Native American scientists — from college students to professionals — to advance science and community. 
+      SACNAS promotes diversity and inclusion within STEM fields by providing resources, mentorship, networking, and opportunities for underrepresented individuals. 
+      Learn more about SACNAS at 
+      <a href="https://www.sacnas.org/" target="_blank" rel="noopener noreferrer">www.sacnas.org</a>.
+    </p>
+
+    <h2>SACNAS @ UCF Mission & Events</h2>
+    <p>
+      Our chapter, SACNAS @ UCF, is committed to empowering students through programming that supports their academic and professional growth in STEM. Our mission focuses on creating a welcoming and inclusive environment for diverse communities at UCF to thrive.
+    </p>
+    <p>Here are some of the events and workshops we plan to offer:</p>
+    <ul>
+      <li>Workshops on graduate school and summer research program applications</li>
+      <li>Guidance on applying for scholarships</li>
+      <li>Support for getting involved in research and discovering your field of interest</li>
+      <li>Tips on communicating your research effectively, both verbally and in writing</li>
+      <li>Discussions on why participating in research and pursuing graduate school can be valuable</li>
+    </ul>
+  </div>
+</body>
+</html>
