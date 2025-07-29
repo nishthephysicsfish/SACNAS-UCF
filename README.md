@@ -1,15 +1,23 @@
-# Synaptic Scholars Initiative Program (SSI)
+# SACNAS @ UCF 🧑‍🔬✨
 
-Welcome to the **Synaptic Scholars Initiative Program (SSI)** project repository!
+Welcome to the official GitHub Pages site for the **Society for Advancement of Chicanos/Hispanics & Native Americans in Science at UCF (SACNAS @ UCF)**! 🌟 Our chapter builds community, fosters diversity, and empowers success in STEM for everyone.
 
-## 🌟 About the Program
+---
 
-**SSI** is a program designed to introduce students with little or no prior experience to the research process at the undergraduate level. Participants will explore research methodology, build essential skills, learn poster etiquette, and gain the opportunity to present their work at the Central Florida Brain Bee.
+## 🚀 About SACNAS @ UCF
 
-## 💡 Program Highlights
+SACNAS @ UCF brings together students, faculty, and professionals passionate about achieving true diversity in STEM.  
+We support underrepresented communities through:
 
-- **Learn:** Discover the nature of university research.
-- **Meet:** Connect with research faculty and fellow students engaged in research.
-- **Explore:** Access a variety of research opportunities available to undergraduates at UCF.
+- 🤝 Inclusive mentoring
+- 📚 Professional development
+- 🌱 Outreach & community events
+- 🧬 Opportunities in STEM research and careers
 
-Made by: Nishtha Tikalal
+---
+
+## 💬 Contact
+
+Questions, ideas, or want to join?  
+📸 Instagram: [@sacnasucf](https://www.instagram.com/sacnasucf/)  
+🌐 Linktree: [linktr.ee/sacnas_ucf](https://linktr.ee/sacnas_ucf)
